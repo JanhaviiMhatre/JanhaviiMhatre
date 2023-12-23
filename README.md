@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanhaviiMhatre
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data analysis
-- ✨ I’m looking to collaborate on building dashboards
+- ✨ I’m looking to collaborate on data analysis projects 
   
 
 <!---
